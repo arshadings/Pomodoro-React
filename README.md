@@ -4,8 +4,11 @@ This project is build using React.
 About the project:
 1. This is a pomodoro application, which is basically a time management technique
 2. In the landing page, there are three inputs fileds
+
     i. Work: The time you are going to work
+    
     ii. Short Break: The short break time
+    
     iii. Long Break: The long break time
 3. Once you set the timings, click on "Set Timer" button to start the work, it will redirect to the main page
 4. You can click on "Start" button to start the timer or "Pause" to pause the timer
