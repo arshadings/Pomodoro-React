@@ -1,4 +1,6 @@
 This project is build using React.
+
+
 About the project:
 1. This is a pomodoro application, which is basically a time management technique
 2. In the landing page, there are three inputs fileds
